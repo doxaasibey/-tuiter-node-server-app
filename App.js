@@ -1,5 +1,5 @@
 import express from 'express';
-import cors from 'cors'
+import cors from 'cors';
 
 import UserController from "./controllers/users/users-controller.js";
 import HelloController from "./controllers/hello-controller.js";

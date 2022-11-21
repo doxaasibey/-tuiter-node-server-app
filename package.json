@@ -2,7 +2,7 @@
   "name": "tuiter-node-server-app",
   "version": "1.0.0",
   "description": "Readme for node server",
-  "main": "App.js",
+  "main": "index.js",
   "scripts": {
     "start": "node App.js"
   },
